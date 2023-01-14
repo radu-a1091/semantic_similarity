@@ -7,6 +7,7 @@ A program that calculates and displays the semantic similarity between a given s
 - install the english md model (en_core_web_md) - [Link](https://spacy.io/usage#quickstart)
 - install the english sm model (en_core_web_sm) - [Link](https://spacy.io/usage#quickstart) 
 <br/>
+
 ### Running the program
 Download the files in the repo on your machine, open the semantic.py file with your preferred IDE.
 
